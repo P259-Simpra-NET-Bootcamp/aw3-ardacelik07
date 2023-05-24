@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JpoiiCJX1foqPRwrQvg/3CSnQf4oA/5kUAefFUR6gLfx4Qh/vtlMfYzxFISYGIVZBfJ8NVQZq9T4ldynqVvm/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi.Base\\CoreLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\celik\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
