@@ -3,14 +3,14 @@ using DataLayer.Models;
 using DataLayer.Repository.IRepositories;
 using DataLayer.Repository.Repositories;
 using SimApi.Data.Context;
-using SimApi.Data.Domain;
+
 using SimApi.Data.Repository;
 
 namespace DataLayer.Configuration;
 
 public class UnitOfWork : IUnitOfWork
 {
-    public IGenericRepository<staff> staffRepository { get; private set; }
+ 
     public IGenericRepository<Category> CategoryRepository { get; private set; }
 
     public IGenericRepository<Product> ProductRepository { get; private set; }
@@ -25,7 +25,7 @@ public class UnitOfWork : IUnitOfWork
         this.dbContext = dbContext;
 
 
-        staffRepository = new GenericRepository<staff>(dbContext);
+      
         CategoryRepository = new GenericRepository<Category>(dbContext);
         ProductRepository = new GenericRepository<Product>(dbContext);
         Category2Repository= new CategoryRepository(dbContext);

@@ -235,3 +235,13 @@ C:\Users\celik\Desktop\simpraodev1\aw2-ardacelik07\SimApi\SimApi\obj\Debug\net6.
 C:\Users\celik\Desktop\simpraodev1\aw2-ardacelik07\SimApi\SimApi\obj\Debug\net6.0\SimodevApi.pdb
 C:\Users\celik\Desktop\simpraodev1\aw2-ardacelik07\SimApi\SimApi\obj\Debug\net6.0\SimodevApi.genruntimeconfig.cache
 C:\Users\celik\Desktop\simpraodev1\aw2-ardacelik07\SimApi\SimApi\obj\Debug\net6.0\ref\SimodevApi.dll
+C:\Users\celik\Source\Repos\aw3-ardacelik07\SimApi\SimApi\obj\Debug\net6.0\SimodevApi.csproj.AssemblyReference.cache
+C:\Users\celik\Source\Repos\aw3-ardacelik07\SimApi\SimApi\obj\Debug\net6.0\SimodevApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celik\Source\Repos\aw3-ardacelik07\SimApi\SimApi\obj\Debug\net6.0\SimodevApi.AssemblyInfoInputs.cache
+C:\Users\celik\Source\Repos\aw3-ardacelik07\SimApi\SimApi\obj\Debug\net6.0\SimodevApi.AssemblyInfo.cs
+C:\Users\celik\Source\Repos\aw3-ardacelik07\SimApi\SimApi\obj\Debug\net6.0\SimodevApi.csproj.CoreCompileInputs.cache
+C:\Users\celik\Source\Repos\aw3-ardacelik07\SimApi\SimApi\obj\Debug\net6.0\SimodevApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\celik\Source\Repos\aw3-ardacelik07\SimApi\SimApi\obj\Debug\net6.0\SimodevApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\celik\Source\Repos\aw3-ardacelik07\SimApi\SimApi\obj\Debug\net6.0\SimodevApi.dll
+C:\Users\celik\Source\Repos\aw3-ardacelik07\SimApi\SimApi\obj\Debug\net6.0\refint\SimodevApi.dll
+C:\Users\celik\Source\Repos\aw3-ardacelik07\SimApi\SimApi\obj\Debug\net6.0\SimodevApi.pdb

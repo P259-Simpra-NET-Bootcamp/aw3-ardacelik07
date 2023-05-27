@@ -12,7 +12,7 @@ public class SimDbContext : DbContext
     }
     
    
-    public DbSet<staff> staff { get; set; }
+   
     public DbSet<Product> Product { get; set; }
     public DbSet<Category> Category { get; set; }
 
@@ -21,7 +21,6 @@ public class SimDbContext : DbContext
     {
         
 
-        builder.Entity<staff>().HasIndex(x => x.Email).IsUnique(true);
         builder.Entity<Category>().HasMany(x => x.products).WithOne(x => x.category).HasForeignKey(x => x.categoryId).OnDelete(DeleteBehavior.Cascade);
 
         base.OnModelCreating(builder);
