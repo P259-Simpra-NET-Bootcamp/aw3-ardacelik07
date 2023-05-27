@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JpoiiCJX1foqPRwrQvg/3CSnQf4oA/5kUAefFUR6gLfx4Qh/vtlMfYzxFISYGIVZBfJ8NVQZq9T4ldynqVvm/w==",
+  "dgSpecHash": "J7TjGaqVC/l8+j/NHXJfbT0+Oe9u5FtwfMIrCgKo73JrSlIkchaJsPveA9Vl3qn37RM68/WOyxuZKZci3Un/FA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi.Base\\CoreLayer.csproj",
+  "projectFilePath": "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi.Base\\CoreLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\celik\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

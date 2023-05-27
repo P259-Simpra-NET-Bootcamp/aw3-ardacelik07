@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1vrY9rjMIzcxM///2K557wE/rIvUNsICAs4niBRkm6k1yTaBTmW6+nrAo6nbS98cxQHpOTRNkpVqKgH0pnyMVQ==",
+  "dgSpecHash": "V6/nDTciF4vAmhgphd9khZKqaJ7+w34E2rnNul4Lee5KAhz3tWbIjAIwh4H4s4GqsRIkl/GMITl5Nxn7wtw79A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi\\SimodevApi.csproj",
+  "projectFilePath": "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi\\SimodevApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\celik\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\celik\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",

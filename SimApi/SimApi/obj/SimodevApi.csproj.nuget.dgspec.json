@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi\\SimodevApi.csproj": {}
+    "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi\\SimodevApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi.Base\\CoreLayer.csproj": {
+    "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi.Base\\CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi.Base\\CoreLayer.csproj",
+        "projectUniqueName": "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi.Base\\CoreLayer.csproj",
         "projectName": "CoreLayer",
-        "projectPath": "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi.Base\\CoreLayer.csproj",
+        "projectPath": "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi.Base\\CoreLayer.csproj",
         "packagesPath": "C:\\Users\\celik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi.Base\\obj\\",
+        "outputPath": "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi.Base\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\celik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi.Data\\DataLayer.csproj": {
+    "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi.Data\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi.Data\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi.Data\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi.Data\\DataLayer.csproj",
+        "projectPath": "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi.Data\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\celik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi.Data\\obj\\",
+        "outputPath": "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\celik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi.Base\\CoreLayer.csproj": {
-                "projectPath": "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi.Base\\CoreLayer.csproj"
+              "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi.Base\\CoreLayer.csproj": {
+                "projectPath": "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi.Base\\CoreLayer.csproj"
               }
             }
           }
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi\\SimodevApi.csproj": {
+    "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi\\SimodevApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi\\SimodevApi.csproj",
+        "projectUniqueName": "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi\\SimodevApi.csproj",
         "projectName": "SimodevApi",
-        "projectPath": "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi\\SimodevApi.csproj",
+        "projectPath": "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi\\SimodevApi.csproj",
         "packagesPath": "C:\\Users\\celik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi\\obj\\",
+        "outputPath": "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\celik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -180,8 +180,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi.Data\\DataLayer.csproj": {
-                "projectPath": "C:\\Users\\celik\\Desktop\\simpraodev1\\aw2-ardacelik07\\SimApi\\SimApi.Data\\DataLayer.csproj"
+              "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi.Data\\DataLayer.csproj": {
+                "projectPath": "C:\\Users\\celik\\Source\\Repos\\aw3-ardacelik07\\SimApi\\SimApi.Data\\DataLayer.csproj"
               }
             }
           }
